@@ -1,0 +1,6 @@
+{
+  "name": "AthleTech - Gym, Workout & Food Tracker",
+  "description": "Next-generation gym workout logger, nutrition and macro food tracker, interactive muscle heatmaps, routine planner, and bodyweight progression.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
